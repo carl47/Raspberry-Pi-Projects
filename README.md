@@ -1,5 +1,4 @@
 # Raspberry-Pi-Projects
-selection of raspberry pi projects
 Make a photo frame using raspberry pi
 Model A ,Model B Pi zero tested 
 Uses raspbian buster 2/2020
